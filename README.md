@@ -1,5 +1,6 @@
 # DM-Assignment2
 
-- The output will be stored in text file under the "Recommnedations Folder" on running the notebook.
-- The output file is called Output.txt
+- The output will be stored in text files under the "Output Folder"
+- The output files are part-00000 and part-00001
+- The output files are also commited to the repository
 
